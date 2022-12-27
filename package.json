@@ -1,0 +1,28 @@
+{
+  "name": "nestech_thuchanh4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuannguyen64/nestech_thuchanh4.git"
+  },
+  "author": "Tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuannguyen64/nestech_thuchanh4/issues"
+  },
+  "homepage": "https://github.com/tuannguyen64/nestech_thuchanh4#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3"
+  },
+  "dependencies": {
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
